@@ -1,0 +1,42 @@
+version: '3.9'
+
+services:
+  backend:
+    container_name: azulmaroc-search
+    image: node:18-alpine
+    working_dir: /app
+    volumes:
+      - ./services//search/source:/app
+    ports:
+      - '3001:3000'
+      - '5555:5555'
+    command: >
+      sh -c "npm install && npm run start:dev"
+    environment:
+      - DATABASE_URL=postgresql://azulmaroc:azulmaroc1234@azulmaroc_postgres:5432/azulmaroc
+      - NODE_ENV=development
+    depends_on:
+      - azulmaroc_postgres
+    networks:
+      - azulmaroc_network
+
+  azulmaroc_postgres:
+    container_name: azulmaroc_postgres
+    image: postgres:15-alpine
+    volumes:
+      - azulmaroc_data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: azulmaroc
+      POSTGRES_PASSWORD: azulmaroc1234
+      POSTGRES_DB: azulmaroc
+    ports:
+      - '5432:5432'
+    networks:
+      - azulmaroc_network
+
+volumes:
+  azulmaroc_data:
+
+networks:
+  azulmaroc_network:
+    driver: bridge

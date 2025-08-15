@@ -1,0 +1,93 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model morocco_regions {
+  id          Int      @id @default(autoincrement())
+  name        String
+  description String?
+  imageURL    String?  // URL to the region's image
+  HTMLcolor   String?  // HTML color code for the region
+  cities      cities[]      // Relation field - one region has many cities
+  beaches     beaches[]     // Relation field - one region has many beaches
+  activities  activities[]  // Relation field - one region has many activities
+  museums     museums[]     // Relation field - one region has many museums
+  attractions attractions[] // Relation field - one region has many attractions
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model cities {
+  id            Int      @id @default(autoincrement())
+  name          String
+  description   String?
+  imageURL      String?  // URL to the city's image
+  regionId      Int      // Foreign key to morocco_regions
+  region        morocco_regions @relation(fields: [regionId], references: [id])
+  beaches       beaches[]     // Relation field - one city has many beaches
+  activities    activities[]  // Relation field - one city has many activities
+  museums       museums[]     // Relation field - one city has many museums
+  attractions   attractions[] // Relation field - one city has many attractions
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model beaches {
+  id          Int      @id @default(autoincrement())
+  name        String
+  description String?
+  imageURL    String?  // URL to the beach's image
+  cityId      Int      // Foreign key to cities
+  city        cities   @relation(fields: [cityId], references: [id])
+  regionId    Int      // Foreign key to morocco_regions
+  region      morocco_regions @relation(fields: [regionId], references: [id])
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model activities {
+  id          Int      @id @default(autoincrement())
+  name        String
+  description String?
+  imageURL    String?  // URL to the activity's image
+  cityId      Int      // Foreign key to cities
+  city        cities   @relation(fields: [cityId], references: [id])
+  regionId    Int      // Foreign key to morocco_regions
+  region      morocco_regions @relation(fields: [regionId], references: [id])
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model museums {
+  id          Int      @id @default(autoincrement())
+  name        String
+  description String?
+  imageURL    String?  // URL to the museum's image
+  cityId      Int      // Foreign key to cities
+  city        cities   @relation(fields: [cityId], references: [id])
+  regionId    Int      // Foreign key to morocco_regions
+  region      morocco_regions @relation(fields: [regionId], references: [id])
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model attractions {
+  id          Int      @id @default(autoincrement())
+  name        String
+  description String?
+  imageURL    String?  // URL to the attraction's image
+  cityId      Int      // Foreign key to cities
+  city        cities   @relation(fields: [cityId], references: [id])
+  regionId    Int      // Foreign key to morocco_regions
+  region      morocco_regions @relation(fields: [regionId], references: [id])
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}

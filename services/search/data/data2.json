@@ -1,0 +1,188 @@
+{
+  "morocco_caves": {
+    "hercules_caves": {
+      "name": "Caves of Hercules (Grotte d'Hercule)",
+      "location": "Tangier",
+      "region": "Tanger-Tétouan-Al Hoceïma",
+      "description": "Archaeological cave complex with Atlantic Ocean opening shaped like inverted map of Africa",
+      "activities": [
+        "Cave exploration",
+        "Photography",
+        "Mythology tours",
+        "Sunset viewing"
+      ]
+    },
+    "friouato_caves": {
+      "name": "Friouato Caves (Gouffre de Friouato)",
+      "location": "Taza",
+      "region": "Fès-Meknès",
+      "description": "Deepest cave system in North Africa, 272m deep with stunning stalactites and stalagmites",
+      "activities": [
+        "Underground exploration",
+        "Guided tours",
+        "Speleology",
+        "Photography"
+      ]
+    }
+  },
+  "morocco_beaches_surfing": {
+    "best_surfing_regions": [
+      "Agadir-Taghazout area",
+      "Essaouira",
+      "Casablanca-El Jadida",
+      "Dakhla (Southern Morocco)"
+    ],
+    "top_surf_spots": {
+      "taghazout": {
+        "location": "Near Agadir",
+        "level": "All levels",
+        "waves": "World-class right-hand point breaks",
+        "spots": [
+          "Anchor Point",
+          "Hash Point",
+          "Killer Point",
+          "Panorama",
+          "Devil's Rock"
+        ]
+      },
+      "imsouane": {
+        "location": "North of Agadir",
+        "level": "All levels",
+        "feature": "Longest wave in Africa",
+        "spots": [
+          "The Bay",
+          "Cathedral Point"
+        ]
+      },
+      "essaouira": {
+        "location": "Atlantic Coast",
+        "level": "Beginner to intermediate",
+        "feature": "Strong winds, also great for kitesurfing",
+        "spots": [
+          "Essaouira Bay",
+          "Moulay Bouzerktoun"
+        ]
+      },
+      "dakhla": {
+        "location": "Southern Morocco",
+        "level": "Advanced",
+        "feature": "Perfect for kitesurfing and windsurfing",
+        "season": "October to March for surfing"
+      }
+    }
+  },
+  "morocco_activities": {
+    "desert_activities": [
+      "Camel trekking",
+      "Desert camping",
+      "Sandboarding",
+      "4WD desert tours",
+      "Quad biking",
+      "Desert photography",
+      "Stargazing",
+      "Traditional nomad experiences"
+    ],
+    "mountain_activities": [
+      "Hiking in Atlas Mountains",
+      "Toubkal climbing (highest peak in North Africa)",
+      "Berber village visits",
+      "Rock climbing in Todra Gorge",
+      "Skiing in Oukaimeden (winter)"
+    ],
+    "cultural_activities": [
+      "Medina walking tours",
+      "Traditional hammam experiences",
+      "Cooking classes",
+      "Pottery and crafts workshops",
+      "Traditional music and dance shows",
+      "Argan oil cooperative visits",
+      "Tannery visits in Fes"
+    ],
+    "water_activities": [
+      "Surfing",
+      "Kitesurfing",
+      "Windsurfing",
+      "Diving and snorkeling",
+      "Beach activities",
+      "Boat trips",
+      "Jet skiing"
+    ],
+    "regional_specialties": {
+      "desert_adventures": {
+        "locations": [
+          "Merzouga",
+          "Zagora",
+          "M'Hamid",
+          "Agafay Desert"
+        ],
+        "activities": [
+          "Multi-day camel trekking",
+          "Luxury desert camping",
+          "Sandboarding",
+          "Desert photography workshops",
+          "Astronomy tours",
+          "Traditional nomad culture experiences",
+          "Desert music concerts"
+        ]
+      },
+      "mountain_adventures": {
+        "atlas_mountains": [
+          "Mount Toubkal climbing (4,167m - highest in North Africa)",
+          "Atlas Mountains trekking",
+          "Berber village stays",
+          "High altitude hiking",
+          "Ski Oukaimeden (winter skiing)"
+        ],
+        "rif_mountains": [
+          "Chefchaouen hiking",
+          "Akchour waterfalls trekking",
+          "Cannabis cultivation region tours (cultural)",
+          "Traditional mountain village visits"
+        ]
+      },
+      "cultural_immersion": [
+        "Traditional hammam experiences",
+        "Moroccan cooking classes",
+        "Pottery workshops in Safi",
+        "Carpet weaving in Rabat",
+        "Calligraphy classes in Fes",
+        "Traditional music performances",
+        "Henna painting workshops",
+        "Argan oil cooperative visits"
+      ]
+    }
+  },
+  "hidden_gems_by_region": {
+    "marrakech_area": [
+      "Ourika Valley - Atlas Mountains valley with waterfalls and Berber villages",
+      "Ouzoud Waterfalls - 110m cascades with rainbow mists and Barbary macaques",
+      "Imlil village - Base camp for Mount Toubkal trekking",
+      "Agafay Desert - Stone desert 40min from Marrakech, luxury camping",
+      "Lalla Takerkoust Lake - Mountain lake with water sports",
+      "Amizmiz Market - Authentic Berber mountain market",
+      "Ouirgane Valley - Hidden valley with traditional villages"
+    ],
+    "fes_area": [
+      "Sefrou - Cherry festival town with waterfalls",
+      "Immouzer Kandar - Cedar forests and lakes",
+      "Source Bleue de Meski - Natural blue spring oasis"
+    ],
+    "tangier_area": [
+      "Asilah - Portuguese fortified coastal town with art murals",
+      "Akchour Waterfalls - Hidden waterfalls in Rif Mountains",
+      "God's Bridge (Pont de Dieu) - Natural rock bridge near Chefchaouen"
+    ],
+    "desert_areas": [
+      "Ait Ben Haddou - UNESCO World Heritage ksar (fortified village)",
+      "Dades Gorge - Spectacular rock formations and road",
+      "Rose Valley - Valley of roses with annual festival",
+      "Skoura Oasis - Palmeries and ancient kasbahs"
+    ],
+    "coastal_hidden_gems": [
+      "Legzira Beach - Natural rock arches (Sidi Ifni area)",
+      "Paradise Valley - Natural pools and palm trees near Agadir",
+      "Mirleft - Quiet coastal town with pristine beaches",
+      "Moulay Bousselham - Lagoon with pink flamingos"
+    ]
+  }
+}

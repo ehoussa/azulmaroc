@@ -1,0 +1,1062 @@
+{
+    "1_tanger_tetouan_al_hoceima": {
+      "region_name": "Tanger-Tétouan-Al Hoceïma",
+      "capital": "Tanger",
+      "provinces": [
+        "Al Hoceïma",
+        "Chefchaouen",
+        "Fahs-Anjra",
+        "Larache",
+        "Ouezzane",
+        "Tétouan"
+      ],
+      "prefectures": [
+        "Tanger-Assilah",
+        "M'Diq-Fnideq"
+      ],
+      "cities": {
+        "tanger": {
+          "city_name": "Tanger (Tangier)",
+          "type": "Major City",
+          "attractions": [
+            "Caves of Hercules (Grotte d'Hercule)",
+            "Cap Spartel Lighthouse",
+            "Kasbah Museum",
+            "American Legation Museum",
+            "Tangier Medina (UNESCO Heritage)",
+            "Grand Socco Square",
+            "Petit Socco",
+            "Mendoubia Gardens"
+          ],
+          "beaches": [
+            "Plage Malabata",
+            "Achakar Beach",
+            "Tangier Municipal Beach"
+          ],
+          "activities": [
+            "Ferry to Europe",
+            "Medina walking tours",
+            "Cave exploration",
+            "Sunset watching at Cap Spartel",
+            "Traditional hammam experiences"
+          ],
+          "museums": [
+            "Kasbah Museum",
+            "American Legation Museum",
+            "Tangier Archaeological Museum"
+          ]
+        },
+        "chefchaouen": {
+          "city_name": "Chefchaouen (The Blue City)",
+          "type": "Mountain City",
+          "attractions": [
+            "Blue-painted medina streets",
+            "Kasbah Museum",
+            "Ethnographic Museum",
+            "Ras El Maa Waterfall",
+            "Spanish Mosque viewpoint",
+            "Plaza Uta el-Hammam"
+          ],
+          "activities": [
+            "Photography tours",
+            "Hiking in Rif Mountains",
+            "Traditional weaving workshops",
+            "Mint tea tasting",
+            "Local handicraft shopping"
+          ],
+          "museums": [
+            "Ethnographic Museum of Chefchaouen",
+            "Kasbah Museum"
+          ],
+          "beaches": [],
+          "hidden_gems": [
+            "God's Bridge (Pont de Dieu)",
+            "Akchour Waterfalls",
+            "Talassemtane National Park"
+          ]
+        },
+        "tetouan": {
+          "city_name": "Tétouan",
+          "type": "UNESCO World Heritage City",
+          "attractions": [
+            "Tétouan Medina (UNESCO World Heritage)",
+            "Royal Palace",
+            "Archaeological Museum",
+            "Ethnographic Museum",
+            "Feddan Park"
+          ],
+          "activities": [
+            "Medina exploration",
+            "Andalusian architecture tours",
+            "Traditional craft workshops",
+            "Nearby beach excursions"
+          ],
+          "museums": [
+            "Archaeological Museum",
+            "Ethnographic Museum"
+          ],
+          "beaches": [
+            "Martil Beach",
+            "Cabo Negro Beach"
+          ]
+        },
+        "al_hoceima": {
+          "city_name": "Al Hoceïma",
+          "type": "Coastal City",
+          "attractions": [
+            "Al Hoceima National Park",
+            "Spanish Mosque",
+            "Mohamed V Avenue",
+            "Sfiha Beach"
+          ],
+          "beaches": [
+            "Plage Quemado",
+            "Sfiha Beach",
+            "Cala Iris Beach",
+            "Torres de Alcala Beach"
+          ],
+          "activities": [
+            "Snorkeling",
+            "Diving",
+            "National park hiking",
+            "Beach activities",
+            "Dolphin watching"
+          ]
+        },
+        "larache": {
+          "city_name": "Larache",
+          "type": "Historical Port City",
+          "attractions": [
+            "Lixus Archaeological Site",
+            "Larache Medina",
+            "Spanish fortifications",
+            "Central Market"
+          ],
+          "beaches": [
+            "Larache Beach"
+          ],
+          "activities": [
+            "Archaeological site visits",
+            "Medina walking tours",
+            "Beach relaxation"
+          ]
+        }
+      }
+    },
+    "2_casablanca_settat": {
+      "region_name": "Casablanca-Settat",
+      "capital": "Casablanca",
+      "provinces": [
+        "Benslimane",
+        "El Jadida",
+        "Médiouna",
+        "Nouaceur",
+        "Settat",
+        "Berrechid",
+        "Sidi Bennour"
+      ],
+      "prefectures": [
+        "Casablanca",
+        "Mohammedia"
+      ],
+      "cities": {
+        "casablanca": {
+          "city_name": "Casablanca",
+          "type": "Economic Capital",
+          "attractions": [
+            "Hassan II Mosque (3rd largest mosque in the world)",
+            "Rick's Café",
+            "Art Deco Architecture District",
+            "Casablanca Cathedral",
+            "Central Market",
+            "Morocco Mall",
+            "United Nations Square",
+            "Mahkama du Pacha"
+          ],
+          "beaches": [
+            "Ain Diab Beach",
+            "Dar Bouazza Beach",
+            "Tamaris Beach"
+          ],
+          "activities": [
+            "Hassan II Mosque guided tours",
+            "Art Deco walking tours",
+            "Nightlife experiences",
+            "Shopping at Morocco Mall",
+            "Beach club activities",
+            "Business district exploration"
+          ],
+          "museums": [
+            "Villa des Arts Museum",
+            "Abderrahman Slaoui Foundation Museum"
+          ]
+        },
+        "el_jadida": {
+          "city_name": "El Jadida",
+          "type": "Portuguese Heritage City",
+          "attractions": [
+            "Portuguese Cistern",
+            "Portuguese City (UNESCO World Heritage)",
+            "Mazagan Fortress",
+            "El Jadida Beach",
+            "Deauville Beach"
+          ],
+          "beaches": [
+            "El Jadida Beach",
+            "Deauville Beach",
+            "Haouzia Beach"
+          ],
+          "activities": [
+            "Portuguese heritage tours",
+            "Surfing",
+            "Beach activities",
+            "Historical site exploration"
+          ],
+          "surfing_spots": [
+            "Deauville Beach",
+            "Haouzia Beach"
+          ]
+        }
+      }
+    },
+    "3_marrakech_safi": {
+      "region_name": "Marrakech-Safi",
+      "capital": "Marrakech",
+      "provinces": [
+        "Al Haouz",
+        "Chichaoua",
+        "El Kelâa des Sraghna",
+        "Essaouira",
+        "Rehamna",
+        "Safi",
+        "Youssoufia"
+      ],
+      "prefectures": [
+        "Marrakech"
+      ],
+      "cities": {
+        "marrakech": {
+          "city_name": "Marrakech (The Red City)",
+          "type": "Imperial City",
+          "attractions": [
+            "Jemaa el-Fnaa Square (UNESCO World Heritage)",
+            "Koutoubia Mosque",
+            "Bahia Palace",
+            "Saadian Tombs",
+            "Ben Youssef Madrasa",
+            "El Badi Palace",
+            "Jardin Majorelle",
+            "Menara Gardens",
+            "Marrakech Museum",
+            "Dar Si Said Museum"
+          ],
+          "activities": [
+            "Medina souks exploration",
+            "Traditional hammam experiences",
+            "Atlas Mountains day trips",
+            "Desert excursions to Agafay",
+            "Hot air balloon rides",
+            "Cooking classes",
+            "Horse-drawn carriage rides",
+            "Rooftop dining experiences"
+          ],
+          "museums": [
+            "Marrakech Museum",
+            "Dar Si Said Museum (Museum of Moroccan Arts)",
+            "Maison de la Photographie",
+            "Dar Bellarj Foundation"
+          ],
+          "hidden_gems": [
+            "Ourika Valley (45 min drive)",
+            "Ouzoud Waterfalls (2.5 hours drive)",
+            "Imlil village (Atlas Mountains)",
+            "Agafay Desert",
+            "Lalla Takerkoust Lake"
+          ],
+          "palaces": [
+            "Bahia Palace",
+            "El Badi Palace"
+          ]
+        },
+        "essaouira": {
+          "city_name": "Essaouira",
+          "type": "Coastal UNESCO World Heritage City",
+          "attractions": [
+            "Essaouira Medina (UNESCO World Heritage)",
+            "Skala de la Ville fortifications",
+            "Essaouira Port",
+            "Sidi Mohammed ben Abdallah Museum",
+            "Argan oil cooperatives",
+            "Jewish Quarter"
+          ],
+          "beaches": [
+            "Essaouira Main Beach",
+            "Sidi Kaouki Beach",
+            "Cap Sim Beach"
+          ],
+          "activities": [
+            "Windsurfing and kitesurfing",
+            "Surfing lessons",
+            "Quad biking",
+            "Argan oil factory tours",
+            "Traditional woodworking workshops",
+            "Gnawa music festivals",
+            "Camel rides on beach"
+          ],
+          "surfing_spots": [
+            "Essaouira Main Beach",
+            "Sidi Kaouki",
+            "Moulay Bouzerktoun"
+          ]
+        },
+        "safi": {
+          "city_name": "Safi",
+          "type": "Pottery Capital",
+          "attractions": [
+            "National Ceramics Museum",
+            "Kechla Fortress",
+            "Portuguese Fortress",
+            "Pottery Quarter",
+            "Safi Medina"
+          ],
+          "activities": [
+            "Pottery workshops",
+            "Ceramic factory visits",
+            "Surfing",
+            "Historical site tours"
+          ],
+          "beaches": [
+            "Safi Beach"
+          ],
+          "surfing_spots": [
+            "Safi wave (The Garden) - Advanced surfers only"
+          ]
+        }
+      }
+    },
+    "4_souss_massa": {
+      "region_name": "Souss-Massa",
+      "capital": "Agadir",
+      "provinces": [
+        "Chtouka-Aït Baha",
+        "Taroudant",
+        "Tata",
+        "Tiznit"
+      ],
+      "prefectures": [
+        "Agadir Ida-Outanane",
+        "Inezgane-Aït Melloul"
+      ],
+      "cities": {
+        "agadir": {
+          "city_name": "Agadir",
+          "type": "Beach Resort City",
+          "attractions": [
+            "Agadir Beach (10km long)",
+            "Agadir Kasbah ruins",
+            "Souss-Massa National Park",
+            "Valley of the Birds",
+            "Agadir Marina",
+            "Crocoparc",
+            "Agadir Memory Museum"
+          ],
+          "beaches": [
+            "Agadir Main Beach",
+            "Taghazout Beach (30km north)",
+            "Tamraght Beach",
+            "Aourir Beach",
+            "Anza Beach"
+          ],
+          "activities": [
+            "Surfing and surf schools",
+            "Golf courses",
+            "Beach resort relaxation",
+            "Desert excursions",
+            "Atlas Mountains tours",
+            "Souss-Massa National Park visits",
+            "Marina activities",
+            "Traditional souk shopping"
+          ],
+          "surfing_spots": [
+            "Taghazout (Anchor Point, Hash Point, Killer Point)",
+            "Tamraght (Banana Beach)",
+            "Tamri",
+            "Imsouane"
+          ]
+        },
+        "taroudant": {
+          "city_name": "Taroudant",
+          "type": "Little Marrakech",
+          "attractions": [
+            "Ancient city walls",
+            "Taroudant Medina",
+            "Place Assarag",
+            "Arab and Berber souks",
+            "Tanneries"
+          ],
+          "activities": [
+            "Medina exploration",
+            "Traditional crafts shopping",
+            "Atlas Mountains excursions",
+            "Argan oil production visits"
+          ]
+        },
+        "tiznit": {
+          "city_name": "Tiznit",
+          "type": "Silver Jewelry Capital",
+          "attractions": [
+            "Tiznit Medina",
+            "Silver jewelry souks",
+            "Ancient city walls",
+            "Lalla Aicha Mosque"
+          ],
+          "beaches": [
+            "Aglou Beach",
+            "Legzira Beach (natural arches)"
+          ],
+          "activities": [
+            "Silver jewelry shopping",
+            "Traditional crafts workshops",
+            "Beach visits",
+            "Anti-Atlas Mountains exploration"
+          ]
+        }
+      }
+    },
+    "5_guelmim_oued_noun": {
+      "region_name": "Guelmim-Oued Noun",
+      "capital": "Guelmim",
+      "provinces": [
+        "Guelmim",
+        "Tan-Tan",
+        "Sidi Ifni",
+        "Assa-Zag"
+      ],
+      "prefectures": [],
+      "cities": {
+        "guelmim": {
+          "city_name": "Guelmim (Gateway to the Sahara)",
+          "type": "Desert Gateway",
+          "attractions": [
+            "Guelmim Camel Market (Saturday market)",
+            "Place Bir Anzarane",
+            "Traditional souks",
+            "Sahara Desert excursions base"
+          ],
+          "activities": [
+            "Camel market visits",
+            "Desert camel trekking",
+            "Traditional nomad culture experiences",
+            "4WD desert expeditions",
+            "Desert camping"
+          ],
+          "beaches": [],
+          "desert_activities": [
+            "Camel trekking",
+            "Desert camping",
+            "Nomad culture immersion",
+            "Sahara photography tours"
+          ]
+        },
+        "tan_tan": {
+          "city_name": "Tan-Tan",
+          "type": "Desert Town",
+          "attractions": [
+            "Tan-Tan Moussem (UNESCO Cultural Heritage)",
+            "Desert landscapes",
+            "Traditional nomad gatherings"
+          ],
+          "beaches": [
+            "Tan-Tan Plage Beach"
+          ],
+          "activities": [
+            "Cultural festivals",
+            "Desert exploration",
+            "Traditional music and dance",
+            "Beach activities"
+          ]
+        },
+        "sidi_ifni": {
+          "city_name": "Sidi Ifni",
+          "type": "Former Spanish Colonial Town",
+          "attractions": [
+            "Art Deco Spanish colonial architecture",
+            "Sidi Ifni Beach",
+            "Spanish lighthouse",
+            "Old Spanish administrative buildings"
+          ],
+          "beaches": [
+            "Sidi Ifni Beach",
+            "Legzira Beach (famous rock arches)"
+          ],
+          "activities": [
+            "Colonial architecture tours",
+            "Beach relaxation",
+            "Photography",
+            "Surfing",
+            "Rock arch exploration at Legzira"
+          ]
+        }
+      }
+    },
+    "6_draa_tafilalet": {
+      "region_name": "Drâa-Tafilalet",
+      "capital": "Errachidia",
+      "provinces": [
+        "Errachidia",
+        "Ouarzazate",
+        "Zagora",
+        "Tinghir",
+        "Midelt"
+      ],
+      "prefectures": [],
+      "cities": {
+        "ouarzazate": {
+          "city_name": "Ouarzazate (Hollywood of Morocco)",
+          "type": "Desert Film City",
+          "attractions": [
+            "Atlas Film Studios",
+            "Kasbah Taourirt",
+            "Kasbah Tifoultoute",
+            "Fint Oasis",
+            "Ait Ben Haddou (UNESCO World Heritage, 30km away)"
+          ],
+          "activities": [
+            "Film studio tours",
+            "Desert excursions to Sahara",
+            "Kasbah exploration",
+            "4WD tours",
+            "Draa Valley visits",
+            "Traditional pottery workshops"
+          ],
+          "museums": [
+            "Cinema Museum"
+          ],
+          "desert_access": [
+            "Gateway to Sahara Desert",
+            "Merzouga dunes (5 hours drive)",
+            "Zagora desert (2 hours drive)"
+          ]
+        },
+        "merzouga": {
+          "city_name": "Merzouga",
+          "type": "Sahara Desert Village",
+          "attractions": [
+            "Erg Chebbi Dunes (largest in Morocco)",
+            "Merzouga Desert",
+            "Dayet Srji Salt Lake",
+            "Khamlia village (Gnawa music)"
+          ],
+          "activities": [
+            "Camel trekking",
+            "Desert camping under stars",
+            "Sandboarding",
+            "4WD desert tours",
+            "Sunrise/sunset viewing",
+            "Traditional Berber culture experiences",
+            "Gnawa music sessions",
+            "Desert photography"
+          ],
+          "desert_activities": [
+            "Overnight desert camping",
+            "Camel caravan experiences",
+            "Desert luxury camping",
+            "Nomad lifestyle immersion"
+          ]
+        },
+        "zagora": {
+          "city_name": "Zagora",
+          "type": "Desert Gateway",
+          "attractions": [
+            "Zagora Dunes",
+            "Draa Valley palm groves",
+            "Zagora Library",
+            "Timbuktu sign (52 days by camel)"
+          ],
+          "activities": [
+            "Desert camel trekking",
+            "Desert camping",
+            "Draa Valley exploration",
+            "Traditional oasis visits",
+            "Date palm plantation tours"
+          ]
+        },
+        "tinghir": {
+          "city_name": "Tinghir",
+          "type": "Oasis Town",
+          "attractions": [
+            "Todra Gorge (300m high cliffs)",
+            "Tinghir Oasis",
+            "Traditional palm groves",
+            "Berber villages"
+          ],
+          "activities": [
+            "Rock climbing in Todra Gorge",
+            "Hiking",
+            "Oasis walks",
+            "Traditional Berber village visits",
+            "Photography tours"
+          ]
+        }
+      }
+    },
+    "7_fes_meknes": {
+      "region_name": "Fès-Meknès",
+      "capital": "Fès",
+      "provinces": [
+        "Boulemane",
+        "El Hajeb",
+        "Ifrane",
+        "Sefrou",
+        "Taounate",
+        "Taza",
+        "Moulay Yacoub"
+      ],
+      "prefectures": [
+        "Fès",
+        "Meknès"
+      ],
+      "cities": {
+        "fes": {
+          "city_name": "Fès (Fez)",
+          "type": "Imperial City - Cultural Capital",
+          "attractions": [
+            "Fes el-Bali Medina (UNESCO World Heritage - world's largest car-free urban area)",
+            "Al-Qarawiyyin University (world's oldest continuously operating university)",
+            "Al-Attarine Madrasa",
+            "Bou Inania Madrasa",
+            "Chaouwara Tanneries",
+            "Kairaouine Mosque",
+            "Nejjarine Museum of Wooden Arts & Crafts",
+            "Dar Batha Museum",
+            "Jewish Quarter (Mellah)",
+            "Royal Palace of Fez"
+          ],
+          "activities": [
+            "Guided medina walking tours",
+            "Traditional tannery visits",
+            "Pottery workshop experiences in Safi",
+            "Moroccan cooking classes",
+            "Traditional hammam experiences",
+            "Carpet weaving demonstrations",
+            "Calligraphy workshops",
+            "Spice market tours"
+          ],
+          "museums": [
+            "Nejjarine Museum of Wooden Arts & Crafts",
+            "Dar Batha Museum",
+            "Arms Museum"
+          ],
+          "cultural_experiences": [
+            "Traditional crafts workshops",
+            "Spiritual Islamic architecture tours",
+            "Traditional music performances",
+            "Islamic calligraphy classes"
+          ]
+        },
+        "meknes": {
+          "city_name": "Meknès",
+          "type": "Imperial City - Versailles of Morocco",
+          "attractions": [
+            "Bab Mansour Gate (most beautiful gate in Morocco)",
+            "Mausoleum of Moulay Ismail",
+            "Place El-Hedim Square",
+            "Heri es-Souani (Royal Stables)",
+            "Dar Jamaï Museum",
+            "Madrasa Bou Inania",
+            "Koubbat as-Sufara (underground granaries)",
+            "Volubilis Roman Ruins (30km away - UNESCO World Heritage)",
+            "Moulay Idriss holy town (32km away)"
+          ],
+          "activities": [
+            "Volubilis Roman ruins day trips",
+            "Moulay Idriss pilgrimage town visits",
+            "Imperial palace exploration",
+            "Traditional souks shopping",
+            "Historical walking tours",
+            "Photography tours of gates and architecture"
+          ],
+          "museums": [
+            "Dar Jamaï Museum",
+            "Volubilis Archaeological Site Museum"
+          ],
+          "nearby_attractions": [
+            "Volubilis Roman Ruins (Morocco's most famous Roman site)",
+            "Moulay Idriss (Holy pilgrimage town)",
+            "Zerhoun Mountains"
+          ]
+        },
+        "ifrane": {
+          "city_name": "Ifrane (Little Switzerland)",
+          "type": "Mountain Resort City",
+          "attractions": [
+            "Al Akhawayn University",
+            "Lion Stone",
+            "Dayet Aoua Lake",
+            "Ifrane National Park",
+            "Alpine-style architecture"
+          ],
+          "activities": [
+            "Skiing (winter season)",
+            "Hiking in Middle Atlas Mountains",
+            "Lake activities",
+            "Cedar forest exploration",
+            "Photography of European-style architecture"
+          ],
+          "unique_features": [
+            "European Alpine architecture",
+            "Clean mountain air",
+            "Winter sports destination"
+          ]
+        },
+        "taza": {
+          "city_name": "Taza",
+          "type": "Historical Mountain City",
+          "attractions": [
+            "Friouato Caves (deepest cave system in North Africa)",
+            "Taza National Park",
+            "Great Mosque of Taza",
+            "Taza Medina"
+          ],
+          "activities": [
+            "Friouato cave exploration",
+            "National park hiking",
+            "Speleology (cave exploration)",
+            "Mountain trekking"
+          ]
+        }
+      }
+    },
+    "8_rabat_sale_kenitra": {
+      "region_name": "Rabat-Salé-Kénitra",
+      "capital": "Rabat",
+      "provinces": [
+        "Kénitra",
+        "Khémisset",
+        "Sidi Kacem",
+        "Sidi Slimane"
+      ],
+      "prefectures": [
+        "Rabat",
+        "Salé",
+        "Skhirat-Témara"
+      ],
+      "cities": {
+        "rabat": {
+          "city_name": "Rabat (Political Capital)",
+          "type": "Capital City - UNESCO World Heritage",
+          "attractions": [
+            "Hassan Tower (44m high unfinished minaret)",
+            "Mausoleum of Mohammed V",
+            "Kasbah of the Udayas (UNESCO World Heritage)",
+            "Rabat Archaeological Museum",
+            "Royal Palace (Dar al-Makhzen)",
+            "Chellah Necropolis and Gardens",
+            "Modern Capital sections",
+            "Mohammed VI Museum of Modern and Contemporary Art",
+            "Villa des Arts",
+            "Rabat Zoo"
+          ],
+          "beaches": [
+            "Rabat Beach",
+            "Temara Beach",
+            "Skhirat Beach"
+          ],
+          "activities": [
+            "UNESCO World Heritage site tours",
+            "Royal palace district exploration",
+            "Bouregreg River boat tours",
+            "Archaeological museum visits",
+            "Modern art gallery tours",
+            "Garden walks in Andalusian Gardens",
+            "Traditional craft shopping in medina"
+          ],
+          "museums": [
+            "Rabat Archaeological Museum",
+            "Mohammed VI Museum of Modern and Contemporary Art",
+            "Villa des Arts",
+            "Oudayas Museum"
+          ],
+          "gardens": [
+            "Hassan Tower Gardens",
+            "Andalusian Gardens (Kasbah of Udayas)",
+            "Chellah Gardens"
+          ]
+        },
+        "sale": {
+          "city_name": "Salé",
+          "type": "Historical Twin City",
+          "attractions": [
+            "Salé Medina",
+            "Great Mosque of Salé",
+            "Madrasa of Salé",
+            "Borj Adoumoue Tower",
+            "Traditional pottery workshops"
+          ],
+          "activities": [
+            "Traditional pottery making",
+            "Medina exploration",
+            "Bouregreg River crossing to Rabat",
+            "Traditional crafts shopping"
+          ]
+        },
+        "kenitra": {
+          "city_name": "Kénitra",
+          "type": "River Port City",
+          "attractions": [
+            "Sebou River",
+            "Kénitra Marina",
+            "Forest of Maâmora (one of the world's largest cork oak forests)",
+            "Plage Mehdia Beach"
+          ],
+          "beaches": [
+            "Plage Mehdia"
+          ],
+          "activities": [
+            "River boat tours",
+            "Cork oak forest visits",
+            "Beach activities",
+            "Birdwatching in wetlands"
+          ]
+        }
+      }
+    },
+    "9_oriental": {
+      "region_name": "L'Oriental",
+      "capital": "Oujda",
+      "provinces": [
+        "Berkane",
+        "Jerada",
+        "Nador",
+        "Taourirt",
+        "Driouch",
+        "Guercif",
+        "Figuig"
+      ],
+      "prefectures": [
+        "Oujda-Angad"
+      ],
+      "cities": {
+        "oujda": {
+          "city_name": "Oujda",
+          "type": "Border City with Algeria",
+          "attractions": [
+            "Oujda Medina",
+            "Bab Sidi Abdel Wahab Gate",
+            "Grand Mosque of Oujda",
+            "Parc Lalla Aicha",
+            "Sidi Maafa Park",
+            "Traditional souks"
+          ],
+          "activities": [
+            "Cross-border cultural experiences",
+            "Traditional market visits",
+            "City park relaxation",
+            "Regional cuisine tasting",
+            "Historical medina exploration"
+          ],
+          "regional_specialties": [
+            "Couscous with seven vegetables",
+            "Traditional Berber dishes",
+            "Border region culinary fusion"
+          ]
+        },
+        "nador": {
+          "city_name": "Nador",
+          "type": "Mediterranean Coastal City",
+          "attractions": [
+            "Marchica Lagoon (Mar Chica)",
+            "Cap des Trois Fourches",
+            "Gourougou Mountain",
+            "Charrana Beach",
+            "Ras Kebdana Beach",
+            "Nador Port"
+          ],
+          "beaches": [
+            "Charrana Beach",
+            "Ras Kebdana Beach",
+            "Ras el-Ma Beach"
+          ],
+          "activities": [
+            "Lagoon boat tours",
+            "Mountain hiking at Gourougou",
+            "Mediterranean beach activities",
+            "Birdwatching in lagoon areas",
+            "Fishing excursions",
+            "Rock climbing"
+          ],
+          "natural_sites": [
+            "Marchica Lagoon (14,000 ha ecosystem)",
+            "Gourougou Mountain (800m altitude)",
+            "Cap des Trois Fourches (8,000 ha protected area)"
+          ]
+        },
+        "saïdia": {
+          "city_name": "Saïdia",
+          "type": "Mediterranean Beach Resort",
+          "attractions": [
+            "Saïdia Beach (Blue Pearl of Mediterranean)",
+            "Saïdia Marina",
+            "Water parks",
+            "Golf courses",
+            "Saïdia Kasbah"
+          ],
+          "beaches": [
+            "Saïdia Beach (14km of golden sand)"
+          ],
+          "activities": [
+            "Beach resort activities",
+            "Water sports",
+            "Golf",
+            "Marina activities",
+            "Luxury resort experiences"
+          ]
+        },
+        "figuig": {
+          "city_name": "Figuig",
+          "type": "Oasis Town",
+          "attractions": [
+            "Seven Ksour (ancient fortified villages)",
+            "Date palm oases",
+            "Traditional architecture",
+            "Desert landscapes"
+          ],
+          "activities": [
+            "Oasis exploration",
+            "Traditional architecture tours",
+            "Date palm plantation visits",
+            "Desert photography",
+            "Cultural heritage experiences"
+          ],
+          "cultural_heritage": [
+            "7-8 century old ksour architecture",
+            "Traditional oasis agriculture",
+            "Saharan culture"
+          ]
+        }
+      }
+    },
+    "10_beni_mellal_khenifra": {
+      "region_name": "Béni Mellal-Khénifra",
+      "capital": "Béni Mellal",
+      "provinces": [
+        "Azilal",
+        "Béni Mellal",
+        "Khénifra",
+        "Khouribga",
+        "Fquih Ben Salah"
+      ],
+      "prefectures": [],
+      "cities": {
+        "beni_mellal": {
+          "city_name": "Béni Mellal",
+          "type": "Atlas Foothills City",
+          "attractions": [
+            "Ain Asserdoun Springs",
+            "Béni Mellal Gardens",
+            "Atlas Mountains viewpoints",
+            "Traditional souks"
+          ],
+          "activities": [
+            "Atlas Mountains access",
+            "Natural springs visits",
+            "Agricultural region tours",
+            "Traditional market experiences"
+          ]
+        },
+        "azilal": {
+          "city_name": "Azilal",
+          "type": "High Atlas Gateway",
+          "attractions": [
+            "Ouzoud Waterfalls (110m high - most famous in Morocco)",
+            "Bin el Ouidane Lake",
+            "High Atlas Mountains",
+            "Cascades d'Ouzoud"
+          ],
+          "activities": [
+            "Ouzoud Waterfalls hiking",
+            "Lake boat trips",
+            "Atlas Mountains trekking",
+            "Waterfall photography",
+            "Barbary macaque watching at Ouzoud"
+          ],
+          "natural_wonders": [
+            "Ouzoud Waterfalls (Morocco's most spectacular waterfalls)",
+            "Bin el Ouidane artificial lake",
+            "High Atlas mountain access"
+          ]
+        }
+      }
+    },
+    "11_laayoune_sakia_el_hamra": {
+      "region_name": "Laâyoune-Sakia El Hamra",
+      "capital": "Laâyoune",
+      "provinces": [
+        "Laâyoune",
+        "Boujdour",
+        "Tarfaya",
+        "Es-Smara"
+      ],
+      "prefectures": [],
+      "cities": {
+        "laayoune": {
+          "city_name": "Laâyoune",
+          "type": "Western Sahara Regional Capital",
+          "attractions": [
+            "Laâyoune Beach",
+            "Central Market",
+            "Spanish colonial architecture",
+            "Desert landscapes"
+          ],
+          "activities": [
+            "Desert exploration",
+            "Beach activities",
+            "Cultural heritage tours",
+            "Desert photography"
+          ]
+        }
+      }
+    },
+    "12_dakhla_oued_ed_dahab": {
+      "region_name": "Dakhla-Oued Ed-Dahab",
+      "capital": "Dakhla",
+      "provinces": [
+        "Aousserd",
+        "Oued Eddahab"
+      ],
+      "prefectures": [],
+      "cities": {
+        "dakhla": {
+          "city_name": "Dakhla",
+          "type": "World-Class Kitesurfing Destination",
+          "attractions": [
+            "Dakhla Lagoon",
+            "Dragon Island (Ile du Dragon)",
+            "White Dune",
+            "Oyster farms",
+            "Sahara Desert meeting Atlantic Ocean"
+          ],
+          "beaches": [
+            "Dakhla Lagoon",
+            "Ocean side beaches",
+            "Lagoon side beaches"
+          ],
+          "activities": [
+            "World-class kitesurfing and windsurfing",
+            "Surfing (October to March)",
+            "Desert excursions",
+            "Flamingo watching",
+            "Oyster tasting",
+            "Desert camping",
+            "Fishing expeditions"
+          ],
+          "world_renowned_for": [
+            "Kitesurfing and windsurfing (world championship location)",
+            "Perfect wind conditions year-round",
+            "Pristine lagoon waters",
+            "Desert-ocean landscape"
+          ]
+        }
+      }
+    }
+  }
